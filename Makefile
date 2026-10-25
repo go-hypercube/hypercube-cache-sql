@@ -1,10 +1,13 @@
-.PHONY: test lint fmt
-
+# Test the codebase
 test:
-	go test ./...
+	@echo "Testing..."
+	@go test ./...
 
 lint:
-	golangci-lint run ./...
+	@echo "Running golangci-lint"
+	@golangci-lint run ./...
 
+# Format the codebase using golangci-lint fmt
 fmt:
-	gofmt -w *.go
+	@echo "Formatting using golangci-lint"
+	@golangci-lint fmt ./...
