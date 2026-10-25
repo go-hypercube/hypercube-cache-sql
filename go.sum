@@ -1,0 +1,4 @@
+github.com/go-hypercube/go-hypercube v0.0.0-20261002222034-ef11e42e7656 h1:l5tGRbsYTMZ5oDdtFEJ11WlRhY3sL9Y764Uk/ma4bso=
+github.com/go-hypercube/go-hypercube v0.0.0-20261002222034-ef11e42e7656/go.mod h1:nOrX+C9kQF2YFyS5JUyNV+zYq9LGrV0CoaMYPSt0B9Q=
+github.com/mattn/go-sqlite3 v1.14.52 h1:wVbm2Qnf4OXkqhBTSPuCRZDRnxfbVrrmiCEroVdog8U=
+github.com/mattn/go-sqlite3 v1.14.52/go.mod h1:6JTjA44L93a0QCyJef5YvlPoKXntQPjzWv5gtm9sB6w=
