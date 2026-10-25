@@ -9,6 +9,12 @@ using the same database and storage namespace.
 Implements `Get`, `Set`, `Delete`, `Has`, `Increment`, and `Expire` without changes
 to the framework's cache interface.
 
+## Install
+
+```sh
+go get github.com/go-hypercube/hypercube-cache-sql
+```
+
 ## Supported databases
 
 | Dialect | Requirement |
